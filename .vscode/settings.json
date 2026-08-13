@@ -2,5 +2,6 @@
     "workbench.editorAssociations": {
         "file:/**/*.xlsx": "jupyter-data-wrangler"
     },
-    "claudeCodeChat.permissions.yoloMode": false
+    "claudeCodeChat.permissions.yoloMode": false,
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
