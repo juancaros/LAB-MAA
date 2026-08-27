@@ -1,5 +1,5 @@
 # Machine Learning y Business Intelligence (formerly Data Analysis and Machine Learning)
-Welcome to 4242012 - 580617 course! Here you will find:
+Welcome to 4242012 - 580617 course! Here you will find among other stuff:
 
 - Data files to do your homework
 - Notebooks with practical examples for each module
